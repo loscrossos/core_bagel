@@ -118,7 +118,7 @@ Hardware    | **Mac** | **Win/Lin**
 CPU         | n.a.    | 4Cores at least. CPU Will be used in full for final image processing. Still its not the main requirement. Any modern CPU should do 
 VRAM        | n.a.    | Succesfully tested with 8GB VRAM (but its a pain). Tested comfortably with 16GB. The model needs 60GB VRAM to run at full speed.
 RAM         | n.a.    | Uses some 2GB RAM (peak) during generation
-Disk Space  | n.a.    | 11GB for the models
+Disk Space  | n.a.    | 27.5GB for the models
 
 
 
