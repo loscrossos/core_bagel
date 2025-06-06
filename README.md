@@ -98,8 +98,22 @@ Stop the app pressing `ctrl + c` on the console
 
 
 
+## Step-by-Step video guide
 
-## Pre-Requisites
+you can watch step-by-step guides for your OS. This is the same information as the next chapter.
+
+
+OS	    | Step-by-step install tutorial
+---	    | ---
+Mac	    | todo
+Windows	| todo
+Linux  	| todo
+
+
+
+## Step-by-Step install guide
+
+### Pre-Requisites
 
 In general you should have your PC setup for AI development when trying out AI models, LLMs and the likes. If you have some experience in this area, you likely already fulfill most if not all of these items. 
 
@@ -150,7 +164,7 @@ https://github.com/loscrossos/crossos_setup
 Thats what i use for all my development across all my systems. All my projects run out of the box if you PC is setup with it.
 If you are already setup and happy thats ok. Its not a requirement. :)
 
-## Project Installation
+### Project Installation
 
 If you setup your development environment using my `Crossos_Setup` project, you can do this from a normal non-admin account (which you should actually be doing anyway for your own security).
 
@@ -189,7 +203,7 @@ Thats it.
 
 Now we need the models...
 
-## Model Installation
+### Model Installation
 
 The needed models are about 27.6GB in total. You can get them in 2 ways:
 - **use the model downloader**: Manual triggered Model Donwload: enter the `models` dir and use the `maclin_get_models.sh` or `win_get_models.bat`.
@@ -204,7 +218,7 @@ The app will report the models it sees and quit without downloading or loading a
 
 
 
-### Re-use existing models
+**Re-use existing models**
 
 
 You can re-use your existing models by configuring the path in the configuration file `modelconfig.txt`.
@@ -231,7 +245,7 @@ FINAL RESULT: It seems all model directories were found. Nothing will be downloa
 ```
 
 
-## Update
+### Update
 
 If you ever need to update the app
 - because you know that the repository changed
