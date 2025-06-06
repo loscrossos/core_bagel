@@ -101,7 +101,7 @@ Stop the app pressing `ctrl + c` on the console
 
 ## Pre-Requisites
 
-In general you should have your PC setup for AI development when trying out AI models, LLMs and the likes. If you have some experience in this area, you likely already fulfill most if not all of these items. visomaster has however light requirements on the hardware.
+In general you should have your PC setup for AI development when trying out AI models, LLMs and the likes. If you have some experience in this area, you likely already fulfill most if not all of these items. 
 
 
 ### Hardware requirements
