@@ -789,7 +789,8 @@ def generate_image():
 import tempfile
 
 def get_image_download(img, format_choice):
-    if img==None:
+    
+    if img is None:
         return None
     if isinstance(img, np.ndarray):
         img = Image.fromarray(img)
