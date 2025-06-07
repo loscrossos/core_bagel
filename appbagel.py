@@ -5,7 +5,7 @@ in_dotenv_needed_models = {
 }
 
 in_dotenv_needed_paths = {
-    "MODELS_HOME": "./models",
+    "MODELS_HOME": "./models/BAGEL-7B-MoT",
     "MODELS_OFFLOAD":"./modelsoffload"
 }
 
